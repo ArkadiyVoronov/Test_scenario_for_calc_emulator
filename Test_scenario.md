@@ -30,7 +30,7 @@ Steps:
 **Test 4**
 Steps:
 1. Lanch the "Calculator" app.
-2. Using the Number Pad and Mouse input a number "9999999999", "+", "1", "Enter" on the keybord.
+2. Using the Number Pad and Mouse input a number "9999999999", "+", "1", "Enter" on the keyboard.
 *Expected: "Error: 10 character limit." shows up in the display*
 
 **Test 5**
