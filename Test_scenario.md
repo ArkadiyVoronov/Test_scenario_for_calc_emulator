@@ -12,12 +12,11 @@ Steps:
 **Test 2**
 Steps:
 1. Launch the "Calculator" app.
-2. Using the Number Pad and Mouse perform the following arithmetic functions and verify the result. 
-a. (+) Addition 
-b. (-) Subtraction 
-c. (x) Multiplication 
-d. (÷) Division 
-e. (=) Equals
+2. Using the Number Pad and Mouse perform the following arithmetic functions and verify the result:
+a. (+) Addition *Expected: “+” shows up in the display*
+b. (-) Subtraction *Expected: “-” shows up in the display*
+c. (x) Multiplication *Expected: “x” shows up in the display*
+d. (÷) Division *Expected: “÷” shows up in the display*
 
 ### Verify Display Functions
 
@@ -38,4 +37,14 @@ Steps:
 1. Lanch the "Calculator" app.
 2. Using the Keybord try input "a".
 *Expected: "Error: Wrong input. Try numbers." shows up in the display*
+
+## Verify All Numbers & Input Methods
+
+**Test 6**
+Steps:
+1. Lanch the "Calculator: app.
+2. Mouse Input 
+*Expected: All numbers work via mouse click.*
+3. Keyboard Input
+*Expected: All numbers work via number pad.*
 
