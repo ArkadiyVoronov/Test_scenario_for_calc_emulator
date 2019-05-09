@@ -35,5 +35,7 @@ Steps:
 
 **Test 5**
 Steps:
-1. Lanch the "
+1. Lanch the "Calculator" app.
+2. Using the Keybord try input "a".
+*Expected: "Error: Wrong input. Try numbers." shows up in the display*
 
