@@ -25,13 +25,13 @@ e. (=) Equals
 Steps:
 1. Lanch the "Calculator" app.
 2. Using the Number Pad and Mouse input a number "1234567890".
-*Expected: "1234567890" shows up in the display".*
+*Expected: "1234567890" shows up in the display*
 
 **Test 4**
 Steps:
 1. Lanch the "Calculator" app.
 2. Using the Number Pad and Mouse input a number "9999999999", "+", "1", "Enter" on the keyboard.
-*Expected: "Error: 10 character limit." shows up in the display*
+*Expected: "Error: 10 character limit input/output." shows up in the display*
 
 **Test 5**
 Steps:
