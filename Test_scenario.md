@@ -38,7 +38,7 @@ Steps:
 2. Using the Keybord try input "a".
 *Expected: "Error: Wrong input. Try numbers." shows up in the display*
 
-## Verify All Numbers & Input Methods
+### Verify All Numbers & Input Methods
 
 **Test 6**
 Steps:
